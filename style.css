@@ -1,0 +1,1 @@
+body{max-width:680px;margin:64px auto;padding:0 24px;font:17px/1.65 system-ui,sans-serif;color:#252525;background:#faf9f6}nav{display:flex;gap:20px;font-size:15px}a{color:#375b78}h1{font-size:30px;line-height:1.2}footer{margin-top:32px;font-size:14px;color:#666}@media(max-width:600px){body{margin:32px auto}}
